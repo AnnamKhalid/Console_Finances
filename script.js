@@ -112,9 +112,7 @@ var averageChange = (totalChange / (totalMonths - 1)).toFixed(2);
 console.log("Average Change: $" + averageChange);
 
 
-
 /* 4: You will need to track what the total change in Profit/Losses are from month to month and then find the average.
 (Total/(Number of months - 1))
 The greatest increase in Profit/Losses (date and amount) over the entire period.*/
-
 /* 5: The greatest decrease in Profit/Losses (date and amount) over the entire period.*/
