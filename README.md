@@ -4,7 +4,7 @@ Creating code for analyzing the financial records of a company.
 ## Description
 ![screenshot of console]<img width="1127" alt="image" src="https://github.com/AnnamKhalid/Console_Finances/assets/145152059/1cb9e207-e8ba-421e-a3e5-f17791401330">
 
-The screenshot above is a completed task that entailed, using concepts I have recently learned in Javascript and putting them into practice. The skills acquired were used to create a code for analyzing the financial records of a company. 
+The screenshot above is a task that entailed, using concepts I have recently learned in Javascript and putting them into practice. The skills acquired were used to create a code for analyzing the financial records of a company. 
 
 My final code should print the analysis to the console and look like the following result:
 
